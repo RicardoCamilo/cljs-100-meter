@@ -1,0 +1,19 @@
+body {
+    background-color: lightgray;
+}
+
+.processes {
+    list-style-type: none;
+}
+
+.proc-1 {
+    color: red;
+}
+
+.proc-2 {
+    color: yellow;
+}
+
+.proc-3 {
+    color: green;
+}
